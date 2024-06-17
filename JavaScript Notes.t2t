@@ -1,0 +1,49 @@
+JavaScript Operator
+______________________________________________________________________________________
+>JavaScript operator are used to perform differnt types of mathematical and logical computation.
+ex
+* Assignment Operators(=)
+* Addition Operators(+)
+* Mutiplication Operators(*)
+* Comparision Operators(<)
+* String Operators
+* Logical Operators
+* Bitwise Operators
+* Ternary Operators
+* Type Operators
+_______________________________________________________________________________________________________________
+JavaScript Datatypes
+_______________________________________________________________________________________________________________
+>String
+>Number
+>Bigint
+>Bollean
+>Undefined
+>Symbol
+>Object
+_______________________________________________________________________________________________________________
+JavaScript Functions
+_______________________________________________________________________________________________________________
+Function is a block of code designed to perform a particular task.
+A JavaScript function is  executed when "something" invokes it (calls it).
+
+JavaScript Function Syntax
+_______________________________________________________________________________________________________________
+>A JavaScript function is defined with the function keyword, followed by a name, followed by parenthses().
+>Function names can contain letters, digits, underscore, and dollar signs (same rule as variba)
+>The parenthses may include parameter names seperated by commas:
+>the code to be executed, by the function, is placed inside curly brackets:{}
+_______________________________________________________________________________________________________________
+Why Function?
+_______________________________________________________________________________________________________________
+>With function you can reuse code
+>You can write code that can be used many times.
+>you can use the same code with different arguments, to produce differnt results.
+_______________________________________________________________________________________________________________
+The () Operator
+_______________________________________________________________________________________________________________
+>The () operator invokes(calls) the function:
+>Accessing function with () return the function result
+>Accessing Function without () return the function and not the function result.
+_______________________________________________________________________________________________________________
+
